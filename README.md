@@ -2,8 +2,8 @@
 
 A smart, privacy-focused finance tracker that uses **Machine Learning** to automatically categorize Indian student expenses (e.g., "Pav Bhaji", "Uber", "Xerox").
 
-## 🚀 Live Demo
-[Link to your live website will go here]
+## 🚀 Demo picture 
+demo.jpeg file contains the expected picture
 
 ## ✨ Features
 - **Hybrid AI Brain:** Combines a custom dictionary for 100% accuracy on Indian terms ("Jio", "Chai") with a Logistic Regression model for generic inputs.
